@@ -1,6 +1,6 @@
 # Twitter Clone
-This is my Twitter Clone Project you can see the [Live Deployment]()
-
+This is my Twitter Clone Project you can see the [Live Deployment](https://vipul-twitter-clone.herokuapp.com/)
+User can post tweet, edit tweet, delete tweet and like tweet.
 
 
 # Technologies Used
