@@ -105,7 +105,7 @@ Post
   display: flex;
   margin: 0 auto;
   max-width: 600px;
-  height: 7%;
+  height: 9%;
   border-bottom: rgba(204, 204, 204, 0.5);
   margin: 0 auto;
   border-left: 1px solid rgba(11, 152, 247, 0.932);
@@ -215,7 +215,6 @@ textarea {
     display: inline-flex;
   }
   #tweet-button {
-    border-radius: 10 px;
     background-color: #209bf0;
     width: 78 px;
     color: #fff;
@@ -233,7 +232,6 @@ textarea {
   font-size: 15px;
 }
 #tweet-button {
-  border-radius: 10px;
   background-color: #209bf0;
   width: 78px;
   color: #fff;
@@ -251,7 +249,6 @@ textarea {
   margin-right: 9.5%;
 }
 .update-button {
-  border-radius: 10px;
   background-color: #209bf0 !important;
   width: 80px;
   height: 35px;
@@ -263,10 +260,8 @@ textarea {
   margin-top: 20px;
 }
 .cancel-button {
-  border-radius: 10px;
-  background-color: #209bf0 !important;
-  width: 80px;
-
+  background-color: black !important;
+  width: 50px;
   color: rgb(227, 240, 224);
   font-weight: bold;
   border: none;
