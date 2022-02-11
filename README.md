@@ -1,7 +1,7 @@
 # Twitter Clone
 This is my Twitter Clone Project you can see the [Live Deployment](https://vipul-twitter-clone.herokuapp.com/)
-User can post tweet, edit tweet, delete tweet and like tweet.
 
+<img width="1068" alt="Screenshot 2022-02-11 at 9 37 34 AM" src="https://user-images.githubusercontent.com/98515294/153536215-15a4a295-0b5d-4335-8dd2-3910b7b2fad9.png">
 
 # Technologies Used
  - Django
